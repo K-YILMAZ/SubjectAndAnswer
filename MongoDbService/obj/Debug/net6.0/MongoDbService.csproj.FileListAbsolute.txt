@@ -1,0 +1,15 @@
+C:\projects\Task\MongoDbService\obj\Debug\net6.0\MongoDbService.csproj.AssemblyReference.cache
+C:\projects\Task\MongoDbService\obj\Debug\net6.0\MongoDbService.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\Task\MongoDbService\obj\Debug\net6.0\MongoDbService.AssemblyInfoInputs.cache
+C:\projects\Task\MongoDbService\obj\Debug\net6.0\MongoDbService.AssemblyInfo.cs
+C:\projects\Task\MongoDbService\obj\Debug\net6.0\MongoDbService.csproj.CoreCompileInputs.cache
+C:\projects\Task\MongoDbService\bin\Debug\net6.0\MongoDbService.deps.json
+C:\projects\Task\MongoDbService\bin\Debug\net6.0\MongoDbService.dll
+C:\projects\Task\MongoDbService\bin\Debug\net6.0\MongoDbService.pdb
+C:\projects\Task\MongoDbService\bin\Debug\net6.0\Model.dll
+C:\projects\Task\MongoDbService\bin\Debug\net6.0\Model.pdb
+C:\projects\Task\MongoDbService\obj\Debug\net6.0\MongoDbService.csproj.CopyComplete
+C:\projects\Task\MongoDbService\obj\Debug\net6.0\MongoDbService.dll
+C:\projects\Task\MongoDbService\obj\Debug\net6.0\refint\MongoDbService.dll
+C:\projects\Task\MongoDbService\obj\Debug\net6.0\MongoDbService.pdb
+C:\projects\Task\MongoDbService\obj\Debug\net6.0\ref\MongoDbService.dll

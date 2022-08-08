@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RCY4L+WZCUP5+kdygSgQ3Axb/9GN9xHDEZcMeq8wvmj7LXrfnjcfyha/Wg6ebiMJb0ReEHWXf/Y0z5RICLbvug==",
+  "success": true,
+  "projectFilePath": "C:\\projects\\Task\\Model\\Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xkanb\\.nuget\\packages\\mongodb.bson\\2.17.1\\mongodb.bson.2.17.1.nupkg.sha512",
+    "C:\\Users\\xkanb\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

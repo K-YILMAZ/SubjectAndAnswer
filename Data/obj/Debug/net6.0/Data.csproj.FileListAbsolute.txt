@@ -1,0 +1,17 @@
+C:\projects\Task\Data\bin\Debug\net6.0\Data.deps.json
+C:\projects\Task\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+C:\projects\Task\Data\bin\Debug\net6.0\Data.dll
+C:\projects\Task\Data\bin\Debug\net6.0\Data.pdb
+C:\projects\Task\Data\bin\Debug\net6.0\Model.dll
+C:\projects\Task\Data\bin\Debug\net6.0\Model.pdb
+C:\projects\Task\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+C:\projects\Task\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\Task\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+C:\projects\Task\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+C:\projects\Task\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+C:\projects\Task\Data\obj\Debug\net6.0\Data.csproj.CopyComplete
+C:\projects\Task\Data\obj\Debug\net6.0\Data.dll
+C:\projects\Task\Data\obj\Debug\net6.0\refint\Data.dll
+C:\projects\Task\Data\obj\Debug\net6.0\Data.pdb
+C:\projects\Task\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+C:\projects\Task\Data\obj\Debug\net6.0\ref\Data.dll
